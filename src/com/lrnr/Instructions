@@ -1,0 +1,5 @@
+1. Start your Application from DriverClass.This class has the main Method.
+
+2. No Exception Handling has been done.If you make any error in giving input the program will terminate.
+
+3. The Application is not synchronized.It may or may not support multi threading.
